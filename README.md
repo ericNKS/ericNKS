@@ -1,4 +1,6 @@
 ## Olá! Eu sou o Éric Santos
+### Sou estudante de Ciência da Computação, amante e entusiasta da tecnologia.
+### Aqui você vai poder stalkear alguns projetos que eu faço tanto para faculdade como alguns projetos pessoais. Sinta-se a vontate de entrar em contato comigo pelo [![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://ecsilva.com/](https://www.linkedin.com/in/eric-ssantos/)) e se quiser dê uma olhada no meu portifólio [![Site](https://img.shields.io/website-up-down-green-red/http/ecsilva.com)](https://ecsilva.com/)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,5 +20,3 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![ericNKS's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericNKS&show_icons=true&theme=dark#gh-dark-mode-only)
 
-### Sou estudante de Ciência da Computação, amante e entusiasta da tecnologia.
-### Aqui você vai poder stalkear alguns projetos que eu faço tanto para faculdade como alguns projetos pessoais. Sinta-se a vontate de entrar em contato comigo pelo [![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://ecsilva.com/](https://www.linkedin.com/in/eric-ssantos/)) e se quiser dê uma olhada no meu portifólio [![Site](https://img.shields.io/website-up-down-green-red/http/ecsilva.com)](https://ecsilva.com/)
